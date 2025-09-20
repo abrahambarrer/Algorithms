@@ -1,0 +1,4 @@
+this is python
+an objected oriented language
+data science
+machine learning
