@@ -1,5 +1,5 @@
 def main():
-    filename = 'file.txt'
+    filename = '../file.txt'
 
     # one line record
     lines = [line.strip() for line in open(filename)]

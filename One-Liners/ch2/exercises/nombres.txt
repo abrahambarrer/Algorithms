@@ -1,0 +1,3 @@
+python is cool
+yes you can!
+python is object-oriented
